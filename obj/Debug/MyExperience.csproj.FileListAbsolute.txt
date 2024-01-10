@@ -1,0 +1,14 @@
+C:\Self.Educ\C#\MyExperience\MyExperience\bin\Debug\MyExperience.exe.config
+C:\Self.Educ\C#\MyExperience\MyExperience\bin\Debug\MyExperience.exe
+C:\Self.Educ\C#\MyExperience\MyExperience\bin\Debug\MyExperience.pdb
+C:\Self.Educ\C#\MyExperience\MyExperience\obj\Debug\MyExperience.csproj.AssemblyReference.cache
+C:\Self.Educ\C#\MyExperience\MyExperience\obj\Debug\MyExperience.csproj.CoreCompileInputs.cache
+C:\Self.Educ\C#\MyExperience\MyExperience\obj\Debug\MyExperience.exe
+C:\Self.Educ\C#\MyExperience\MyExperience\obj\Debug\MyExperience.pdb
+C:\Self.Educ\C#\LeetCode\MyExperience\bin\Debug\MyExperience.exe.config
+C:\Self.Educ\C#\LeetCode\MyExperience\bin\Debug\MyExperience.exe
+C:\Self.Educ\C#\LeetCode\MyExperience\bin\Debug\MyExperience.pdb
+C:\Self.Educ\C#\LeetCode\MyExperience\obj\Debug\MyExperience.csproj.AssemblyReference.cache
+C:\Self.Educ\C#\LeetCode\MyExperience\obj\Debug\MyExperience.csproj.CoreCompileInputs.cache
+C:\Self.Educ\C#\LeetCode\MyExperience\obj\Debug\MyExperience.exe
+C:\Self.Educ\C#\LeetCode\MyExperience\obj\Debug\MyExperience.pdb
