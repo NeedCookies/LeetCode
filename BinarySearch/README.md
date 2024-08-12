@@ -24,11 +24,11 @@ Constraints:
     nums contains distinct values sorted in ascending order.  
     -10^4 <= target <= 10^4
 </details>
-[Решение]()
+[Решение](https://github.com/NeedCookies/LeetCode/blob/main/BinarySearch/Task35.cs)
 
 ### [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 **Level: <span style="color:green">Easy</span>**  
-[Решение]()
+[Решение](https://github.com/NeedCookies/LeetCode/blob/main/BinarySearch/Task69.cs)
 <details><summary><b>Task 69<b></summary>
 Given a non-negative integer x, return the square root of x rounded down to the nearest integer. The returned integer should be non-negative as well.
 
@@ -52,15 +52,15 @@ Constraints:
 
 ### [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 **Level: <span style="color:yellow">Medium</span>**  
-[Решение]()
+[Решение](https://github.com/NeedCookies/LeetCode/blob/main/BinarySearch/Task33.cs)
 
 ### [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)  
 **Level: <span style="color:yellow">Medium</span>**  
-[Решение]()
+[Решение](https://github.com/NeedCookies/LeetCode/blob/main/BinarySearch/Task34.cs)
 
 ### [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
 **Level: <span style="color:yellow">Medium</span>**  
-[Решение]()
+[Решение](https://github.com/NeedCookies/LeetCode/blob/main/BinarySearch/Task74.cs)
 
 ### [81. Search in Rotated Sorted Array 2](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 **Level: <span style="color:yellow">Medium</span>**  
@@ -68,14 +68,16 @@ Constraints:
 Так как в массиве могут храниться повторяющиеся элементы, чтобы найты pivot index нам все равно придется пройтись по всему массиву, что приведет к сложности решения O(n). Например массив [1,1,1,1,1,1,1,4,1,1,1,1] - мы никак не сможем обработать с помощью бин поиска
 </details>  
 
-[Решение]()
+[Решение](https://github.com/NeedCookies/LeetCode/blob/main/BinarySearch/Task81.cs)
 
 ### [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 **Level: <span style="color:yellow">Medium</span>**  
-[Решение]()
+[Решение](https://github.com/NeedCookies/LeetCode/blob/main/BinarySearch/Task153.cs)
 
 ### [154. Find Minimum in Rotated Sorted Array 2](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)
 **Level: <span style="color:yellow">Medium</span>**  
 <details><summary>Заметки</summary>
 Ассимтотически сложность останется O(n), т.к. из-за того, что элементы повторяются нельзя пологаться на бинпоиск, в пример приведу массивы: [1,1,2,1,1], [1,2,3,1,1,1,1] и т.д. Но можно немного выиграть времени, если будем идти двумя указателями слева и справа к середине, т.е. на каждой итерации делаем l++, r--, но опять же повторюсь, ассимптотика здесь остается прежней - O(n).
 </details>
+
+[Решение](https://github.com/NeedCookies/LeetCode/blob/main/BinarySearch/Task154.cs)
