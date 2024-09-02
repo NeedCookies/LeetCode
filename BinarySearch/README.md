@@ -81,3 +81,15 @@ Constraints:
 </details>
 
 [Решение](https://github.com/NeedCookies/LeetCode/blob/main/BinarySearch/Task154.cs)
+
+### [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
+**Level: <span style="color:yellow">Medium</span>**  
+[Решение](https://github.com/NeedCookies/LeetCode/blob/main/BinarySearch/Task162.cs)
+
+### [167. Two Sum || - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+**Level: <span style="color:yellow">Medium</span>**  
+[Решение](https://github.com/NeedCookies/LeetCode/blob/main/BinarySearch/Task167.cs)
+
+### [315. Count of Smaller Number After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
+**Level: <span style="color:red">Hard</span>**  
+[Решение через сортировку "Разделяй и властвуй"](https://github.com/NeedCookies/LeetCode/blob/main/BinarySearch/Task315.cs) - [the best explanation](https://leetcode.com/problems/count-of-smaller-numbers-after-self/solutions/445769/merge-sort-clear-simple-explanation-with-examples-o-n-lg-n/)
