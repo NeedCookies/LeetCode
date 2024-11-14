@@ -13,3 +13,7 @@
 ### [71. Simplify Path](https://leetcode.com/problems/simplify-path/description)
 **Level: Medium**  
 [Решение](https://github.com/NeedCookies/LeetCode/blob/main/Stack/Task71.cs)
+
+### [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/?envType=problem-list-v2&envId=stack)  
+**Level: Medium**  
+[Решение](https://github.com/NeedCookies/LeetCode/blob/main/Stack/Task84.cs)
