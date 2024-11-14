@@ -90,6 +90,10 @@ Constraints:
 **Level: <span style="color:yellow">Medium</span>**  
 [Решение](https://github.com/NeedCookies/LeetCode/blob/main/BinarySearch/Task167.cs)
 
+### [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/?envType=problem-list-v2&envId=binary-search)
+**Level: <span style="color:yellow">Medium</span>**  
+[Решение](https://github.com/NeedCookies/LeetCode/blob/main/BinarySearch/Task240.cs)
+
 ### [315. Count of Smaller Number After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
 **Level: <span style="color:red">Hard</span>**  
 [Решение через сортировку "Разделяй и властвуй"](https://github.com/NeedCookies/LeetCode/blob/main/BinarySearch/Task315.cs) - [the best explanation](https://leetcode.com/problems/count-of-smaller-numbers-after-self/solutions/445769/merge-sort-clear-simple-explanation-with-examples-o-n-lg-n/)
